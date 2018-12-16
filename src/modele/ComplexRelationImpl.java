@@ -2,7 +2,7 @@ package modele;
 
 import java.util.List;
 
-public class RelationImpl implements Relation {
+public class ComplexRelationImpl implements ComplexRelation {
 
 	private int arity;
 
